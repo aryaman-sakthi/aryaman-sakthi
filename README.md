@@ -38,5 +38,14 @@ I've built a solid foundation in computer science, focusing on languages like Py
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) 
 
 
+# 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=aryaman-sakthi&theme=dark&hide_border=true&include_all_commits=false&count_private=false) &nbsp; ![](https://github-readme-streak-stats.herokuapp.com/?user=aryaman-sakthi&theme=dark&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aryaman-sakthi&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+## 🤝 Connect with me
+[![Gmail](https://skillicons.dev/icons?i=gmail)](aryaman.sakthi@gmail.com) &nbsp;
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](www.linkedin.com/in/aryaman-sakthivel-5a94491a2) &nbsp;
+[![Instagram](https://skillicons.dev/icons?i=instagram)](www.instagram.com/aryaman__17?utm_source=qr&igsh=ejFiNzg3YmZvZmZ2) &nbsp;
 
 
