@@ -1,3 +1,5 @@
+![MasterHead](https://github.com/aryaman-sakthi/aryaman-sakthi/blob/main/GitHubBannerFinal.gif?raw=true)
+
 # 💫 About Me:
 Hey, I am Aryaman, a Software Engineering (Honours) student at UNSW with a keen interest in using technology to address practical challenges and real world problems. I am particularly interested in Software Development, Full stack, AI and Web development.  
 I've built a solid foundation in computer science, focusing on languages like Python, C, JavaScript, MySQL. I enjoy collaborating with others and am looking forward to opportunities where I can continue to learn and contribute.
@@ -44,8 +46,6 @@ I've built a solid foundation in computer science, focusing on languages like Py
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aryaman-sakthi&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🤝 Connect with me
-[![Gmail](https://skillicons.dev/icons?i=gmail)](aryaman.sakthi@gmail.com) &nbsp;
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](www.linkedin.com/in/aryaman-sakthivel-5a94491a2) &nbsp;
-[![Instagram](https://skillicons.dev/icons?i=instagram)](www.instagram.com/aryaman__17?utm_source=qr&igsh=ejFiNzg3YmZvZmZ2) &nbsp;
-
-
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:aryaman.sakthi@gmail.com) &nbsp;
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/aryaman-sakthivel-5a94491a2) &nbsp;
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/aryaman__17/)
