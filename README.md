@@ -41,9 +41,9 @@ I've built a solid foundation in computer science, focusing on languages like Py
 
 
 # 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=aryaman-sakthi&theme=dark&hide_border=true&include_all_commits=true&count_private=true) &nbsp; ![](https://github-readme-streak-stats.herokuapp.com/?user=aryaman-sakthi&theme=dark&hide_border=true)
+![](https://github-readme-stats-alpha-ten-85.vercel.app/api?username=aryaman-sakthi&theme=dark&hide_border=true&include_all_commits=true&count_private=true) &nbsp; ![](https://github-readme-streak-stats.herokuapp.com/?user=aryaman-sakthi&theme=dark&hide_border=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aryaman-sakthi&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats-alpha-ten-85.vercel.app/api/top-langs/?username=aryaman-sakthi&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🤝 Connect with me
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:aryaman.sakthi@gmail.com) &nbsp;
