@@ -42,8 +42,8 @@ I've built a solid foundation in computer science, focusing on languages like Py
 
 # 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryaman-sakthi&theme=dark&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats-alpha-ten-85.vercel.app/api/top-langs/?username=aryaman-sakthi&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryaman-sakthi&theme=dark&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats-alpha-ten-85.vercel.app/api/top-langs/?username=aryaman-sakthi&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="180"/>
 </p>
 
 ## 🤝 Connect with me
